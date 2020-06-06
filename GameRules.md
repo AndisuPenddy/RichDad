@@ -1,13 +1,15 @@
 # __RichDad Active and Passive Rewards__
-[Our Contract Address](https://etherscan.io/address/0xc7a590b743848c36acd905b00d0b44a8b3e1546e)
+[Our Contract Address](https://etherscan.io/address/0xc7a590b743848c36acd905b00d0b44a8b3e1546e) 0xc7a590b743848c36acd905b00d0b44a8b3e1546e
 ## :vulcan_salute:Minimum join of 0.6 ETH:vulcan_salute:
 ### :bank:Received direct sponsor rewards up to 32% for each referral you make:bank:
 ---
-### Each ETH invested can only win a maximum of 8 times of invested plan which included 0.6 ETH and 3.88 ETH.
-### Additional with Jackpot Pool rewards and Gatcha Roll' Reward are add-on rewards for participants.
+### Each plan subscribed can only win a maximum of 8 times of invested plan which included 0.6 ETH and 3.88 ETH.
+### Additional winning Jackpot Pool rewards and Gatcha Roll' Reward are add-on rewards for participants.
 ---
 ### :droplet:All participants who subscribed to 0.6 ETH or 3.88 ETH plan will have the chance to queue for the 8 times rewards of their subscribed plan. 
+
 ### :ocean:User with 0.6 ETH subscribed plan will have the chance to exit with 0.92 ETH rewards and one 3.88 ETH account queued into 3.88 ETH pool for free with condition that they must have minimum of 2 referral by the time they settle their 0.6 ETH account.
+
 ### :fire:User with 3.88 ETH will have the equal chance to exit with 25.04 ETH rewards deposited into their wallet and 10 free account of 0.6 ETH queue into 0.6 ETH queue with condition they must have minimum of 8 referral same time when they settle their 3.88 ETH account
 ---
 # __Jackpot Pool Reward__
