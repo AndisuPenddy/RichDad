@@ -27,6 +27,6 @@
 |2% | System processing fee.
 |74.5% |Total reward pool
 
-- :bellhop_bell:All user are required to pay for the fees when their subscribed plan reached the balance for settle.
+- :bellhop_bell:All user are required to pay for the fees when their subscribed plan reached the balance for settle. Please ensure for every settle of the account, the gas limit are preset at 4,730,000
 
 - :bellhop_bell:The Jackpot Pool winner will be deposited with ETH in their wallet. 
